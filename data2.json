@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "fname": "menna",
+        "lname": "mohamed",
+        "city": "Beni-seuf",
+        "age": 22
+    },
+    {
+        "id": 2,
+        "fname": "Nour",
+        "lname": "mohamed",
+        "city": "Beni-seuf",
+        "age": 21
+    },
+    {
+        "id": 3,
+        "fname": "mostafa",
+        "lname": "mohamed",
+        "city": "cairo",
+        "age": 27
+    },
+    {
+        "id": 4,
+        "fname": "ahmed",
+        "lname": "mohamed",
+        "city": "cairo",
+        "age": 17
+    },
+    {
+        "id": 5,
+        "fname": "marwa",
+        "lname": "mohamed",
+        "city": "Giza",
+        "age": 30
+    },
+    {
+        "id": 6,
+        "fname": "mai",
+        "lname": "Ali",
+        "city": "Alex",
+        "age": 25
+    },
+    {
+        "id": 7,
+        "fname": "ali",
+        "lname": "hossam",
+        "city": "Alex",
+        "age": 20
+    },
+    {
+        "id": 13,
+        "fname": "maha",
+        "lname": "mostafa",
+        "city": "Helwan",
+        "age": 32
+    },
+    {
+        "id": 14,
+        "fname": "reham",
+        "lname": "taha",
+        "city": "masoura",
+        "age": 20
+    },
+    {
+        "id": 15,
+        "fname": "alaa",
+        "lname": "omar",
+        "city": "banha",
+        "age": 22
+    },
+    {
+        "id": 16,
+        "fname": "amany",
+        "lname": "omar",
+        "city": "beni-seuf",
+        "age": 16
+    },
+    {
+        "id": 17,
+        "fname": "amany",
+        "lname": "omar",
+        "city": "beni-seuf",
+        "age": 26
+    },
+    {
+        "id": 18,
+        "fname": "hanan",
+        "lname": "omar",
+        "city": "beni-seuf",
+        "age": 26
+    },
+    {
+        "id": 19,
+        "fname": "manar",
+        "lname": "ayman",
+        "city": "beni-seuf",
+        "age": 25
+    },
+    {
+        "id": 20,
+        "fname": "mayar",
+        "lname": "ayman",
+        "city": "beni-seuf",
+        "age": 25
+    },
+    {
+        "id": 21,
+        "fname": "maram",
+        "lname": "ahmed",
+        "city": "beni-seuf",
+        "age": 25,
+        "course1": 100,
+        "course2": 70,
+        "course3": 84,
+        "course4": 90,
+        "course5": 95,
+        "course6": 100,
+        "sum": 539,
+        "avg": 90
+    },
+    {
+        "id": 22,
+        "fname": "reem",
+        "lname": "ahmed",
+        "city": "beni-seuf",
+        "age": 20,
+        "course1": 90,
+        "course2": 80,
+        "course3": 80,
+        "course4": 90,
+        "course5": 95,
+        "course6": 100,
+        "sum": 535,
+        "avg": 89
+    }
+]
